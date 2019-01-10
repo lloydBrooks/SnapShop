@@ -17,9 +17,9 @@ This is an image editor I wrote as a programming assignment for TCSS 305 at Univ
     "Save As" button in the bottom left of the window. From here you can either overwrite the existing image  by 
     clicking save or you can give the image a new name by typing it into the "File Name" field of the file explorer 
     and then clicking save. 
-    From here you can either continue to edit the image by applying more filters to it, load a new image via the "Open" 
-    button, close the current image via the "Close Image" button, or exit the program with the x in the corner of the 
-    window. 
+    From here you can either continue to edit the image by applying more filters to it, load a new image via the 
+    "Open" button, close the current image via the "Close Image" button, or exit the program with the x in the corner 
+    of the window. 
     
 # package outline:
 ## filters:
